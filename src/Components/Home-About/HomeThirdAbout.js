@@ -8,7 +8,7 @@ import aboutemp from '../../Assets/HomeAboutimg.png'
 import './style.css'
 export default function HomeThirdAbout() {
   return (
-    <div>
+    <div className='-ml-4'>
        <div className="container ">
      
      <div className='row Second-img'>

@@ -6,6 +6,7 @@ import HomeThirdAbout from './Home-About/HomeThirdAbout'
 import HomeFourthMap from './Home-Fourth-Map/HomeFourthMap'
 import HomeFifthComponents from './Home-Components/HomeFifthComponents'
 import Homeloan from './Home-Sixth-/Homeloan'
+import HomeFooter from './Home-Footer/HomeFooter'
 function Home() {
   return (
     <>
@@ -15,6 +16,7 @@ function Home() {
     <HomeFourthMap/>
     <HomeFifthComponents/>
     <Homeloan/>
+    <HomeFooter/>
     </>
   )
 }
