@@ -1,0 +1,15 @@
+.Cards{
+    text-align: center;
+    margin: 8vw 0vw 0vw 0vw;
+    padding: 0vw 4vw;
+}
+.Cards img{
+    transition: margin-top 2s;
+}
+.Cards img:hover{
+    margin-top: -2vw;
+}
+.Cards p{
+    margin-top: 1.5vw;
+    font-size: 1.6vw;
+}

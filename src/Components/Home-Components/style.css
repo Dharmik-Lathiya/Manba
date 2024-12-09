@@ -1,0 +1,10 @@
+.info-box{
+    display: grid;
+    place-items: center;
+    margin: 10vw 0vw;
+}
+.logo{
+    height: 7vw;
+    width: 7vw;
+    margin-bottom: 1vw;
+}

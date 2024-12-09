@@ -1,0 +1,33 @@
+.Second-img{
+    margin-top: 8vw;
+    background:url("../../Assets/HomeAbout.png");
+    background-size: 100% 100%;
+    height: auto;
+    width: 98.7vw;
+    margin-left: 0vw;
+}
+.Third-Text-Head{
+    width: 100vw;
+    font-weight: 700;
+    color: white;
+    padding-top: 3vw;
+}
+.Homeaboutimg{
+    display: grid;
+    place-items: center;
+
+}
+.Homeaboutimg img{
+    height:40vw;
+    width: auto;
+}
+.HomeAboutSecondText{
+    font-size: 1.2vw;
+}
+.HomeAboutLogoImg{
+    height: 7vw;
+    width: 7vw;
+}
+.about-title{
+    font-weight: 600;
+}
