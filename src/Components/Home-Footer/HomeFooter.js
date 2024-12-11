@@ -38,19 +38,19 @@ export default function HomeFooter() {
                   <p className="text-xl -ml-16 -mt-14 text-slate-300">Pages</p>
                   <ul>
                     <li className="flex items-center">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Home</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">About Us</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Contect Us</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Services</a>
                     </li>
                   </ul>
@@ -62,19 +62,19 @@ export default function HomeFooter() {
                   <p className="text-xl -ml-24 -mt-14 text-slate-300">Loan</p>
                   <ul>
                     <li className="flex items-center">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Home Loan</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Personal Loan</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Gold Loan</a>
                     </li>
                     <li className="flex items-center mt-3">
-                      <span className="font-bold mr-2">></span>
+                      <span className="font-bold mr-2">&gt;</span>
                       <a href="/">Home</a>
                     </li>
                   </ul>
