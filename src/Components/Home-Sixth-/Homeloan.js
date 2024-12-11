@@ -7,7 +7,7 @@ export default function Homeloan() {
       <div className='container '>
         <div className='row text-dark pb-20'>
             <div className='col-xl'>
-              <img src={first} alt='first img' className='firstImg mx-16'/>
+              <img src={first} alt='first img' className='firstImg mx-auto'/>
             </div>
             <div className='col-xl text-light grid'>
               <p className='my-24 text-5xl'>Do you need a small cash loan?</p>
