@@ -5,7 +5,7 @@ import Home from './Components/Home';
 function App() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-lime-400">
       <img src={logo} alt="Girl in a jacket" width="60" height="70" style={{'height':'5vw','widows':'2vw','marginLeft':'5vw'}}/>
   <a className="navbar-brand Barnd-Title" href="/" style={{'color':'var(--blue'}}>Manba Finaserve</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
